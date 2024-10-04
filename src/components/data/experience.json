@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "role": "Frontend developer with React Js",
+        "organisation": "Consult IT",
+        "startDate": "july, 2024",
+        "endDate": "Present",
+        "location": "Greater Noida near bloom international school",
+        "experiences": [
+            "Worked on E-commerce project"
+        ],
+        "imageSrc": "company/google.png"
+    },
+    {
+        "id": 2,
+        "role": "Frontend developer",
+        "organisation": "GOTO Admission",
+        "startDate": "Dec, 2022",
+        "endDate": "Feb, 2023",
+        "location": "Noida sector 62",
+        "experiences": [
+            "Worked on for gain knowledge"
+        ],
+        "imageSrc": "company/microsoft.png"
+    }
+]
